@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\webapplication2\\webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBBB637-536D-4F7A-832A-29CD26902D8E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T08:06:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:06:38.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T08:05:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T07:57:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:55:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwE8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:42:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Models\\Team.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:38:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:32:20.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:50:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\WebApplication2\\WebApplication2\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:27:32.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
